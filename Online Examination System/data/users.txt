@@ -1,0 +1,2 @@
+venkat,venkat,USER
+admin,admin123,ADMIN
